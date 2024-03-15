@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "aptDate": "2022-10-01",
+    "aptNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "aptDate": "2022-10-02",
+    "aptNotes": "Nulla facilisi. Sed euismod mauris non nunc tincidunt, at aliquet nisl tincidunt."
+  },
+  {
+    "id": 3,
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "aptDate": "2022-10-03",
+    "aptNotes": "Praesent euismod nunc id nunc lacinia, id aliquam nisl aliquam."
+  },
+  {
+    "id": 4,
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "aptDate": "2022-10-04",
+    "aptNotes": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae."
+  }
+]

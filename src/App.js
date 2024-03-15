@@ -53,13 +53,6 @@ function App() {
               </span>
               Appointments
             </h1>
-            <div className="d-grid gap-2">
-              <Button
-                size="lg"
-                variant="success">
-                Add New Appointment
-              </Button>
-            </div>
           </Col>
         </Row>
         <Row>
